@@ -25,4 +25,4 @@ The third code of the study named:  Times_serie_fbProphet.py try to implment a c
 The Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well 
 
 The forth code implement an approach using artificial neural network built with Keras named : ANN_tensorflow.py
-The simple model include only one hidden layer fully connected and containing 40 neurones to start
+The simple model include only one hidden layer fully connected and containing 40 neurones to start.
