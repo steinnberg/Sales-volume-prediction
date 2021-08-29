@@ -18,7 +18,7 @@ In this code there is three steps for the study
 3) Builiding the model
 
 The second code named periodic_stusy.py of consist of treating data as mainly a time series.
-Approaches like simple moving average (SMA), exponential smoothing  (ES) are implemented according to the study presented  in this link:https://medium.com/dataman-in-ai/anomaly-detection-for-time-series-a87f8bc8d22e
+Approaches like simple moving average (SMA), exponential smoothing  (ES) are implemented according to the study presented  in this link: https://medium.com/dataman-in-ai/anomaly-detection-for-time-series-a87f8bc8d22e
 
 The third code of the study named:  Times_serie_fbProphet.py try to implment a classical approach by using the Prophet. 
 
